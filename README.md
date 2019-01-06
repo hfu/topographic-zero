@@ -2,7 +2,10 @@
 日本の地形図記号をとりあえず手早く sprite にしてみる試みです。細かい考慮は後回しにし、とりあえず使える sprite を用意することを目指しています。
 
 # 成果
-- （作成した地形図記号 sprite を sprite-pop 表示する URL をここに入れる予定）
+![sprite.png](https://hfu.github.io/topographic-zero/sprite.png)
+
+- [スプライト一覧](https://hfu.github.io/sprite-pop/?https://hfu.github.io/topographic-zero/sprite.json)
+- [sprite.json](https://hfu.github.io/topographic-zero/sprite.json)
 
 # 行っていること
 1. Digital 北海道研究会がフリー素材として公開している地形図記号から選定した SVG データを名前をつけて保存
