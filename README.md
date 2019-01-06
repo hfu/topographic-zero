@@ -1,7 +1,18 @@
-# topographic-zero
-(work in progress)
+# topographic-zero (作業中)
+日本の地形図記号をとりあえず手早く sprite にしてみる試みです。細かい考慮は後回しにし、とりあえず使える sprite を用意することを目指しています。
+
+# 成果
+- （作成した地形図記号 sprite を sprite-pop 表示する URL をここに入れる予定）
+
+# 行っていること
+1. Digital 北海道研究会がフリー素材として公開している地形図記号から選定した SVG データを名前をつけて保存
+2. 上記地形図記号は 500px x 500px の領域でデザインされているようなので、spritezero を使った Node.js スクリプトでこれらを 10% に縮小した上で sprite に変換。
+
+# 方針
+1. 「ないよりはまし、とりあえず」のものを急いで作る。それにより、成果の品質をざっくりと上げると共に、本格的な作業を今後行うにあたってのノウハウを取得する。
+2. 地図記号の中心をスプライトの center に合わせる、といった編集が今後必要となると思われるが、後回しにする。
 
 # See also
-- [spritezero-cli](https://github.com/mapbox/spritezero-cli) and [spritezero-docker](https://github.com/macteo/spritezero-docker)
+- [spritezero](https://github.com/mapbox/spritezero)
 - [sprite-pop](https://github.com/hfu/sprite-pop)
 - [地形図記号（Digital 北海道研究会）](https://dghok.com/download)
