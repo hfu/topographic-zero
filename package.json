@@ -1,0 +1,25 @@
+{
+  "name": "topographic-zero",
+  "version": "1.0.0",
+  "description": "(work in progress)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/topographic-zero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/topographic-zero/issues"
+  },
+  "homepage": "https://github.com/hfu/topographic-zero#readme",
+  "dependencies": {
+    "@mapbox/spritezero": "^6.1.0",
+    "config": "^3.0.1",
+    "hjson": "^3.1.2"
+  }
+}
