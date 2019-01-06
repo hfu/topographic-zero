@@ -25,7 +25,7 @@ for (const m of [1, 2, 3]) {
   spritezero.generateLayout(
     {
       imgs: svgs,
-      pixelRatio: config.get('ratio') * m,
+      pixelRatio: m,
       format: true
     },
     (err, dataLayout) => {
@@ -40,7 +40,7 @@ for (const m of [1, 2, 3]) {
   spritezero.generateLayout(
     {
       imgs: svgs,
-      pixelRatio: config.get('ratio') * m,
+      pixelRatio: m,
       format: false
     },
     (err, imageLayout) => {

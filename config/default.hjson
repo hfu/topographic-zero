@@ -1,4 +1,3 @@
 {
-  src: src/*.svg
-  ratio: 0.02
+  src: src/11/*.svg
 }
