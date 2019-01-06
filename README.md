@@ -13,6 +13,9 @@
 2. 地図記号の中心をスプライトの center に合わせる、といった編集が今後必要となると思われるが、後回しにする。
 3. 使い回しがしやすいように、ファイル名はあえて常識的に、しかも英語でつける。
 
+# 例外
+ただし、水田の記号だけはあまりに大きすぎたので、SVG-Edit を使って縮小をしている。
+
 # See also
 - [spritezero](https://github.com/mapbox/spritezero)
 - [sprite-pop](https://github.com/hfu/sprite-pop)

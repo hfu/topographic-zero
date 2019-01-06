@@ -1,4 +1,4 @@
 {
   src: src/*.svg
-  ratio: 0.04
+  ratio: 0.02
 }
