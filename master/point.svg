@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3px" height="3px" viewBox="0 0 3 3" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 2 1.460938 C 2 1.71875 1.789062 1.929688 1.53125 1.929688 C 1.273438 1.929688 1.0625 1.71875 1.0625 1.460938 C 1.0625 1.203125 1.273438 0.992188 1.53125 0.992188 C 1.789062 0.992188 2 1.203125 2 1.460938 Z M 2 1.460938 "/>
-</g>
+<?xml version="1.0"?>
+<svg width="3" height="3" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="surface1">
+   <path d="m2.426743,1.486543c0,0.503473 -0.411934,0.915407 -0.915407,0.915407c-0.503473,0 -0.915407,-0.411934 -0.915407,-0.915407c0,-0.503475 0.411934,-0.915407 0.915407,-0.915407c0.503473,0 0.915407,0.411932 0.915407,0.915407zm0,0" fill="rgb(0%,0%,0%)" fill-rule="nonzero" id="svg_1"/>
+  </g>
+ </g>
 </svg>
