@@ -12,12 +12,10 @@
 $ git clone git@github.com:hfu/topographic-zero
 $ cd topographic-zero
 $ npm install
-$ brew install librsvg # OS X
 ```
 
 # 実行
 ```console
-$ ruby resize.rb | sh
 $ node index.js
 ```
 
