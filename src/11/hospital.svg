@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11px" height="11px" viewBox="0 0 11 11" version="1.1">
-<defs>
-<image id="image5" width="11" height="11" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALCAYAAACprHcmAAAABmJLR0QA/wD/AP+gvaeTAAAAmElEQVQYlY3QMQ4BARAF0LeiUAlOgHs4hFDqdI6g0Um4gC20sqXWEVxDpdNIREEojGCR7G9m/v8zP5lJ0FYQCbZYF5jtQvrDWKGe09LSn5QeKnmxnOMz1EKf44QRrs/h94UdDrhFf4weygkmIUxxCeOMFvYRNvZ4BuggQzN4HaXgWfgfqGKBQfA+lmh83//CEJuohZD/ErgD5tEYhQ0EK30AAAAASUVORK5CYII="/>
-</defs>
 <g id="surface1">
-<use xlink:href="#image5"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0.00390625 0.894531 L 0.00390625 6.152344 L 5.5 10.105469 L 10.996094 6.152344 L 10.996094 0.894531 Z M 10.398438 5.847656 L 5.5 9.371094 L 0.601562 5.847656 L 0.601562 1.492188 L 10.398438 1.492188 Z M 5.027344 7.085938 L 6.097656 7.085938 L 6.097656 5.488281 L 8.019531 5.488281 L 8.019531 4.414062 L 6.097656 4.414062 L 6.097656 2.300781 L 5.027344 2.300781 L 5.027344 4.414062 L 3.105469 4.414062 L 3.105469 5.488281 L 5.027344 5.488281 Z M 5.027344 7.085938 "/>
 </g>
 </svg>

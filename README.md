@@ -7,6 +7,20 @@
 - [スプライト一覧](https://hfu.github.io/sprite-pop/?https://hfu.github.io/topographic-zero/sprite.json)
 - [sprite.json](https://hfu.github.io/topographic-zero/sprite.json)
 
+# インストール
+```console
+$ git clone git@github.com:hfu/topographic-zero
+$ cd topographic-zero
+$ npm install
+$ brew install librsvg # OS X
+```
+
+# 実行
+```console
+$ ruby resize.rb | sh
+$ node index.js
+```
+
 # 行っていること
 1. Digital 北海道研究会がフリー素材として公開している地形図記号から選定した SVG データを名前をつけて保存
 2. 上記地形図記号は 500px x 500px の領域でデザインされているようなので、resize.rb でサイズを強制的に小さくした上で、index.js で sprite に変換。

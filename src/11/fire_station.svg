@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11px" height="11px" viewBox="0 0 11 11" version="1.1">
-<defs>
-<image id="image5" width="11" height="11" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALCAYAAACprHcmAAAABmJLR0QA/wD/AP+gvaeTAAAAh0lEQVQYlb3OMQ4BYRCG4WdXgUTCFm7AGRyIZFv3ELUDKIk4gAvsAdDhAnqV1Uwhm/2VJplM8n7vZCbDFk8spWuDAVzxQpEQx3jjnGOPLtYJeYUMOxjhgRoHzDCMeQx+Dwam8U7d0hdMmud6WKAKqcI8eLLKkMtmkP/a+p/caWEF+jjh9h18ACGOHICxQSkQAAAAAElFTkSuQmCC"/>
-</defs>
 <g id="surface1">
-<use xlink:href="#image5"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 10.992188 0.304688 L 9.1875 0.304688 C 9.183594 2.339844 7.535156 3.988281 5.5 3.992188 C 3.464844 3.988281 1.816406 2.339844 1.8125 0.304688 L 0.0078125 0.304688 C 0.0078125 3.03125 1.992188 5.292969 4.597656 5.722656 L 4.597656 10.695312 L 6.402344 10.695312 L 6.402344 5.722656 C 9.007812 5.292969 10.992188 3.03125 10.992188 0.304688 Z M 10.992188 0.304688 "/>
 </g>
 </svg>
